@@ -2,7 +2,7 @@
   "app-id": "com.leinardi.gst",
   "command": "gst",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "3.36",
+  "runtime-version": "3.38",
   "sdk": "org.gnome.Sdk",
   "finish-args": [
     "--share=ipc",
@@ -39,8 +39,8 @@
         {
           "type": "git",
           "url": "https://gitlab.com/leinardi/gst.git",
-          "tag": "0.7.4",
-          "commit": "652d189a09f55165d8189adc2c9537ece72b891a"
+          "tag": "0.7.5",
+          "commit": "31ef4c4b8c5a29f7e2af2000348dbf9c9f47d42c"
         }
       ]
     }
