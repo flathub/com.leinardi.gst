@@ -2,7 +2,7 @@
   "app-id": "com.leinardi.gst",
   "command": "gst",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "43",
+  "runtime-version": "44",
   "sdk": "org.gnome.Sdk",
   "finish-args": [
     "--share=ipc",
@@ -24,6 +24,7 @@
     "lm-sensors.json",
     "libaio.json",
     "libbsd.json",
+    "zlib.json",
     "stress-ng.json",
     "python3-setuptools.json",
     "python3-python-dateutil.json",
@@ -38,8 +39,8 @@
         {
           "type": "git",
           "url": "https://gitlab.com/leinardi/gst.git",
-          "tag": "0.7.5",
-          "commit": "31ef4c4b8c5a29f7e2af2000348dbf9c9f47d42c"
+          "tag": "0.7.6",
+          "commit": "50b1d620538c18fd3d7fdb81b421e00bce88b85f"
         }
       ]
     }
