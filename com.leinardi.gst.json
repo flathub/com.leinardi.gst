@@ -24,6 +24,7 @@
     "lm-sensors.json",
     "libaio.json",
     "libbsd.json",
+    "zlib.json",
     "stress-ng.json",
     "python3-setuptools.json",
     "python3-python-dateutil.json",
