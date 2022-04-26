@@ -8,8 +8,8 @@
     {
       "type": "git",
       "url": "https://github.com/dateutil/dateutil.git",
-      "tag": "2.8.1",
-      "commit": "fc9b1625ebc729f01e449879b6b140abd12ae621"
+      "tag": "2.8.2",
+      "commit": "6b035517571e63b6a63a493740c5506ec1e5da44"
     },
     {
       "type": "shell",

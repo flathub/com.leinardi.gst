@@ -8,9 +8,9 @@
   "sources": [
     {
       "type": "git",
-      "url": "git://kernel.ubuntu.com/cking/stress-ng.git",
-      "tag": "V0.10.16",
-      "commit": "1ad237fb9285333d70d19f6fd1fe236dbecaedce"
+      "url": "https://github.com/ColinIanKing/stress-ng.git",
+      "tag": "V0.13.12",
+      "commit": "f59bcb2fe1e25042e77d5e4942f72bfa026fa305"
     }
   ]
 }
