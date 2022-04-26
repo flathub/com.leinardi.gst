@@ -12,8 +12,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/31/0e/a2e882aaaa0a378aa6643f4bbb571399aede7dbb5402d3a1ee27a201f5f3/humanfriendly-9.1.tar.gz",
-                    "sha256": "066562956639ab21ff2676d1fda0b5987e985c534fc76700a19bd54bcb81121d"
+                    "url": "https://files.pythonhosted.org/packages/93/66/363d01a81da2108a5cf446daf619779f06d49a0c4426dd02b40734f10e2f/humanfriendly-9.1-py2.py3-none-any.whl",
+                    "sha256": "d5c731705114b9ad673754f3317d9fa4c23212f36b29bdc4272a892eafc9bc72"
                 }
             ]
         },
@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/41/18/e7945f7bca52d58826331de49a7ee86cc00270821d3c83792ec07ee90b2f/injector-0.18.4.tar.gz",
-                    "sha256": "ced88ee14183b9f95b2cb6cdb17bf7382499fad187dee0dace6891874ae4b182"
+                    "url": "https://files.pythonhosted.org/packages/29/36/eaf271dd4c5325710f306245e257d969a8c4d1e79ea0d08cfeaad8cdd8f4/injector-0.18.4-py2.py3-none-any.whl",
+                    "sha256": "9e6e7e63050630b2fc3fe1472bdc7ae5f98ca0242ca8506f562f3d9836170f91"
                 }
             ]
         },
@@ -68,8 +68,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/6f/2e/2251b5ae2f003d865beef79c8fcd517e907ed6a69f58c32403cec3eba9b2/pyxdg-0.27.tar.gz",
-                    "sha256": "80bd93aae5ed82435f20462ea0208fb198d8eec262e831ee06ce9ddb6b91c5a5"
+                    "url": "https://files.pythonhosted.org/packages/ea/13/de39ddf4f9f9cea0c7684cd54a50d79c97ea99c9f6aed798fd13d0bd4609/pyxdg-0.27-py2.py3-none-any.whl",
+                    "sha256": "2d6701ab7c74bbab8caa6a95e0a0a129b1643cf6c298bf7c569adec06d0709a0"
                 }
             ]
         },
@@ -96,28 +96,28 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/80/be/3ee43b6c5757cabea19e75b8f46eaf05a2f5144107d7db48c7cf3a864f73/urllib3-1.26.7.tar.gz",
-                    "sha256": "4987c65554f7a2dbf30c18fd48778ef124af6fab771a377103da0585e2336ece"
+                    "url": "https://files.pythonhosted.org/packages/ec/03/062e6444ce4baf1eac17a6a0ebfe36bb1ad05e1df0e20b110de59c278498/urllib3-1.26.9-py2.py3-none-any.whl",
+                    "sha256": "44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/ea/b7/e0e3c1c467636186c39925827be42f16fee389dc404ac29e930e9136be70/idna-2.10.tar.gz",
-                    "sha256": "b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6"
+                    "url": "https://files.pythonhosted.org/packages/a2/38/928ddce2273eaa564f6f50de919327bf3a00f091b5baba8dfa9460f3a8a8/idna-2.10-py2.py3-none-any.whl",
+                    "sha256": "b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/ee/2d/9cdc2b527e127b4c9db64b86647d567985940ac3698eeabc7ffaccb4ea61/chardet-4.0.0.tar.gz",
-                    "sha256": "0d6f53a15db4120f2b08c94f11e7d93d2c911ee118b6b30a04ec3ee8310179fa"
+                    "url": "https://files.pythonhosted.org/packages/19/c7/fa589626997dd07bd87d9269342ccb74b1720384a4d739a1872bd84fbe68/chardet-4.0.0-py2.py3-none-any.whl",
+                    "sha256": "f864054d66fd9118f2e67044ac8981a54775ec5b67aed0441892edb553d21da5"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/6d/78/f8db8d57f520a54f0b8a438319c342c61c22759d8f9a1cd2e2180b5e5ea9/certifi-2021.5.30.tar.gz",
-                    "sha256": "2bbf76fd432960138b3ef6dda3dde0544f27cbf8546c458e60baf371917ba9ee"
+                    "url": "https://files.pythonhosted.org/packages/37/45/946c02767aabb873146011e665728b680884cd8fe70dde973c640e45b775/certifi-2021.10.8-py2.py3-none-any.whl",
+                    "sha256": "d62a0163eb4c2344ac042ab2bdf75399a71a2d8c7d47eac2e2ee91b9d6339569"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/6b/47/c14abc08432ab22dc18b9892252efaf005ab44066de871e72a38d6af464b/requests-2.25.1.tar.gz",
-                    "sha256": "27973dd4a904a4f13b263a19c866c13b92a39ed1c964655f025f3f8d3d75b804"
+                    "url": "https://files.pythonhosted.org/packages/29/c1/24814557f1d22c56d50280771a17307e6bf87b70727d975fd6b2ce6b014a/requests-2.25.1-py2.py3-none-any.whl",
+                    "sha256": "c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e"
                 }
             ]
         },
@@ -130,8 +130,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/3c/c6/96c37b82e637363f49690ccbd8238fe7b22a48589879e7dd2c9ea3a0c916/Rx-3.1.1.tar.gz",
-                    "sha256": "562851cfdb27fd5a218443cdbd682029684144dbafeb5dce34f6a709511282de"
+                    "url": "https://files.pythonhosted.org/packages/90/6c/5f1839d9ae2a8c85d119c51acaff1f1382f68691cb0f1cb3d0c9fdd32a93/Rx-3.1.1-py3-none-any.whl",
+                    "sha256": "0e0f2715a3452e95dcb5d6ea28ffe5742e832592bbcc67a48f394ef8ba871e6f"
                 }
             ]
         }

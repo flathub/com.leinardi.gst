@@ -2,7 +2,7 @@
   "app-id": "com.leinardi.gst",
   "command": "gst",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "41",
+  "runtime-version": "42",
   "sdk": "org.gnome.Sdk",
   "finish-args": [
     "--share=ipc",
@@ -24,7 +24,6 @@
     "lm-sensors.json",
     "libaio.json",
     "libbsd.json",
-    "zlib.json",
     "stress-ng.json",
     "python3-setuptools.json",
     "python3-python-dateutil.json",

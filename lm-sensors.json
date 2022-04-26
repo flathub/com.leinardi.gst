@@ -11,8 +11,8 @@
     {
       "type": "git",
       "url": "https://github.com/lm-sensors/lm-sensors.git",
-      "tag": "V3-5-0",
-      "commit": "e8afbda10fba571c816abddcb5c8180afc435bba"
+      "tag": "V3-6-0",
+      "commit": "1667b850a1ce38151dae17156276f981be6fb557"
     }
   ]
 }
