@@ -9,8 +9,8 @@
     {
       "type": "git",
       "url": "https://github.com/ColinIanKing/stress-ng.git",
-      "tag": "V0.13.12",
-      "commit": "f59bcb2fe1e25042e77d5e4942f72bfa026fa305"
+      "tag": "V0.14.05",
+      "commit": "dfc192c24690ee4fae948b8db67196f5670c44cc"
     }
   ]
 }
