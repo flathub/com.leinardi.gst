@@ -2,7 +2,7 @@
   "app-id": "com.leinardi.gst",
   "command": "gst",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "47",
+  "runtime-version": "49",
   "sdk": "org.gnome.Sdk",
   "finish-args": [
     "--share=ipc",
